@@ -22,6 +22,16 @@ To run the tests in Gitpod, in the terminal, type:
 
 ![Jest Test Image](images/test.png)
 
+## How was Jest Installed? 
+
+How to install Jest: 
+
+1. Type `npm init` into the terminal. 
+2. Use default settings for all except **test command**, type `jest` here.
+3. When the package.json file has been installed, type `npm install --save-dev jest`
+
+Note, a previous version of Jest was installed in this project, I did this by entering the following for step 3. `npm install --save-dev jest@26.6.3`
+
 ## Credits
 
 I learned this information through the Code Institute. 
